@@ -1,0 +1,8 @@
+c:\users\sipakov\documents\visual studio 2015\Projects\The basic task of OOP\The basic task of OOP\bin\Debug\The basic task of OOP.exe.config
+C:\For GitHub\The basic task of OOP\The basic task of OOP\bin\Debug\The basic task of OOP.exe.config
+C:\ForGitHub\The basic task of OOP\The basic task of OOP\bin\Debug\The basic task of OOP.exe.config
+C:\ForGitHub\The basic task of OOP\The basic task of OOP\bin\Debug\The basic task of OOP.exe
+C:\ForGitHub\The basic task of OOP\The basic task of OOP\bin\Debug\The basic task of OOP.pdb
+C:\ForGitHub\The basic task of OOP\The basic task of OOP\obj\Debug\The basic task of OOP.csprojResolveAssemblyReference.cache
+C:\ForGitHub\The basic task of OOP\The basic task of OOP\obj\Debug\The basic task of OOP.exe
+C:\ForGitHub\The basic task of OOP\The basic task of OOP\obj\Debug\The basic task of OOP.pdb

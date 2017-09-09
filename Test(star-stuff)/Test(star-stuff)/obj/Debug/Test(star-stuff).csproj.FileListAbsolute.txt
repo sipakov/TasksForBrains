@@ -1,0 +1,15 @@
+c:\users\sipakov\documents\visual studio 2015\Projects\Test(star-stuff)\Test(star-stuff)\bin\Debug\Test(star-stuff).exe.config
+c:\users\sipakov\documents\visual studio 2015\Projects\Test(star-stuff)\Test(star-stuff)\bin\Debug\Test(star-stuff).exe
+c:\users\sipakov\documents\visual studio 2015\Projects\Test(star-stuff)\Test(star-stuff)\bin\Debug\Test(star-stuff).pdb
+c:\users\sipakov\documents\visual studio 2015\Projects\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).csprojResolveAssemblyReference.cache
+c:\users\sipakov\documents\visual studio 2015\Projects\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).exe
+c:\users\sipakov\documents\visual studio 2015\Projects\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).pdb
+C:\Users\sipakov\Desktop\Тестовое задание-Сипаков\Test(star-stuff)\Test(star-stuff)\bin\Debug\Test(star-stuff).exe.config
+C:\Users\sipakov\Desktop\Тестовое задание-Сипаков\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).exe
+C:\Users\sipakov\Desktop\Тестовое задание-Сипаков\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).pdb
+C:\ForGitHub\Test(star-stuff)\Test(star-stuff)\bin\Debug\Test(star-stuff).exe.config
+C:\ForGitHub\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).exe
+C:\ForGitHub\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).pdb
+C:\ForGitHub\Test(star-stuff)\Test(star-stuff)\bin\Debug\Test(star-stuff).exe
+C:\ForGitHub\Test(star-stuff)\Test(star-stuff)\bin\Debug\Test(star-stuff).pdb
+C:\ForGitHub\Test(star-stuff)\Test(star-stuff)\obj\Debug\Test(star-stuff).csprojResolveAssemblyReference.cache
