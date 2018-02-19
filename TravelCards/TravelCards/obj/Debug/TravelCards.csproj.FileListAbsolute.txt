@@ -1,0 +1,7 @@
+c:\users\sipakov\source\repos\TravelCards\TravelCards\bin\Debug\TravelCards.exe.config
+c:\users\sipakov\source\repos\TravelCards\TravelCards\bin\Debug\TravelCards.exe
+c:\users\sipakov\source\repos\TravelCards\TravelCards\bin\Debug\TravelCards.pdb
+c:\users\sipakov\source\repos\TravelCards\TravelCards\obj\Debug\TravelCards.csproj.CoreCompileInputs.cache
+c:\users\sipakov\source\repos\TravelCards\TravelCards\obj\Debug\TravelCards.exe
+c:\users\sipakov\source\repos\TravelCards\TravelCards\obj\Debug\TravelCards.pdb
+c:\users\sipakov\source\repos\TravelCards\TravelCards\obj\Debug\TravelCards.csprojResolveAssemblyReference.cache
