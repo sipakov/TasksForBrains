@@ -1,0 +1,6 @@
+C:\Users\sipakov\source\repos\CalculateSymbols\CalculateSymbols\bin\Debug\CalculateSymbols.exe.config
+C:\Users\sipakov\source\repos\CalculateSymbols\CalculateSymbols\bin\Debug\CalculateSymbols.exe
+C:\Users\sipakov\source\repos\CalculateSymbols\CalculateSymbols\bin\Debug\CalculateSymbols.pdb
+C:\Users\sipakov\source\repos\CalculateSymbols\CalculateSymbols\obj\Debug\CalculateSymbols.csproj.CoreCompileInputs.cache
+C:\Users\sipakov\source\repos\CalculateSymbols\CalculateSymbols\obj\Debug\CalculateSymbols.exe
+C:\Users\sipakov\source\repos\CalculateSymbols\CalculateSymbols\obj\Debug\CalculateSymbols.pdb
