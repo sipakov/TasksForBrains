@@ -1,4 +1,14 @@
 
+A task:
+You are going to make a long journey through many settlements. In order not to get confused, you made maps of your trip. Each map contains a departure point and a destination.
+It is guaranteed that if you order these cards so that for each card in the ordered list the destination on it coincides with the departure point on the next map in the list, one list of cards without cycles and passes will be received.
+For example, we have cards
+Melbourne> Cologne
+Moscow> Paris
+Cologne> Moscow
+If you sort them according to the above requirements, you will get the following list:
+Melbourne> Cologne, Cologne> Moscow, Moscow> Paris
+
 
 В рамках данной задачи от вас ожидается:
 1) Аккуратный и красивый production-level код с комментариями, который не стыдно показать коллегам на ревью
